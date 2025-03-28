@@ -1,0 +1,14 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice" },
+    { "id": 2, "name": "Bob" }
+  ],
+  "posts": [
+    { "id": 1, "userId": 1, "title": "Hello World" },
+    { "id": 2, "userId": 2, "title": "Second Post" }
+  ],
+  "comments": [
+    { "id": 1, "postId": 1, "text": "Nice post!" },
+    { "id": 2, "postId": 2, "text": "Great article!" }
+  ]
+}
